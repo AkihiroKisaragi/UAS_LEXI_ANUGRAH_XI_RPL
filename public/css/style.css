@@ -1,0 +1,41 @@
+.sidebar-link {
+    color: black;
+    display: block;
+    padding: 10px 20px;
+    transition: all .2s;
+    cursor: pointer;
+    font-size: 14pt;
+    text-align: center;
+}
+
+.sidebar-link:hover {
+    text-decoration: none;
+    background-color: #eee;
+}
+
+.side-menu{
+    margin-top: 50px;
+}
+
+.side-menu{
+
+}
+
+.sidebar {
+    width: 250px;
+    position: absolute;
+    left: 0;
+    top:0;
+    bottom:0;
+    margin-top: 50px;
+
+}
+
+.py-4{
+    margin-left: 250px;
+}
+
+.holder{
+    margin-left: 30px;
+    margin-right: 30px;
+}
